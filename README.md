@@ -4,9 +4,9 @@
 
 ## What is this?
 
-PuppyLimiter is a network tool that helps you **monitor, analyze, and limit the bandwidth** (upload/download) of devices on your local network—
+PuppyLimiter is a network tool that helps you **monitor, analyze, and limit the bandwidth** (upload/download) of devices on your local network,
 all while being as cute as a puppy with zoomies! It works on both **Linux** (with `tc` and `iptables`/`nmap`) and **Windows** (with PowerShell and demo firewall rules).
-Choose your access: admin/root (for full power) or just physical (for when you can only unplug things). Every action is announced by adorable dog kaomojis and cute puppy messages.
+Choose your access: admin/root (for full power) or jus physical (for when you can only unplug things). Every action is announce by adorable dog kaomojis and cute puppy messages.
 
 ---
 
