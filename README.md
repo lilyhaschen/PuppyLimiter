@@ -1,4 +1,4 @@
-#PuppyLimiter: The Cutest Bandwidth Capper in the Dog Park ૮ • ﻌ - ა
+#PuppyLimiter: The Cutest Bandwidth Capper in the Dog Park ૮ • ﻌ - ა#
 
 ##What is this?
 PuppyLimiter is a network tool that helps you monitor, analyze, and limit the bandwidth (upload/download) of devices on your local network—
